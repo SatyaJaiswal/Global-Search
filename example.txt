@@ -1,0 +1,16 @@
+///******************user (name , email)*****************/
+('Alice', 'alice@example.com'),
+('Bob', 'bob@example.com');
+
+
+/*************************************/////////////
+Product : (product , description)
+('iPhone 14', 'Latest Apple smartphone'),
+('Nike Shoes', 'Best sports shoes');
+
+
+////////*******************************///
+user_id, product_id, status
+(1, 1, 'Shipped'),
+(2, 2, 'Delivered');
+
